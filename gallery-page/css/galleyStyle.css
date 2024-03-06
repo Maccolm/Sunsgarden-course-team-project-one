@@ -15,7 +15,7 @@ body {
   color: rgb(68, 126, 77);
  
 }
- .info__text{
+.info__text{
 	 font-family: 'Caveat',cursive;
 	 font-size: 200%;
  }
@@ -23,8 +23,7 @@ h1 {
   font-family: 'Caveat',cursive;
   font-size: 300%;
 }
- 
- 
+
 html, body {
   height: 100%;
   width: 100%;
@@ -36,7 +35,6 @@ html, body {
   -webkit-text-size-adjust: 100%;
  
 }
-
 .row_one {
   display: flex;
   justify-content: space-evenly;
