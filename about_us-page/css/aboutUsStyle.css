@@ -78,7 +78,11 @@ html {
   border-radius: 10px;
 }
 
-
+@media  screen and (min-width: 1440px) {
+  .smaller-text p{
+    line-height: 1.5;
+  }
+}
 
 
 
@@ -160,6 +164,7 @@ html {
     flex-direction: column;
     text-align: center;
     letter-spacing: 1px;
+   
   }
 
   .images-container {
